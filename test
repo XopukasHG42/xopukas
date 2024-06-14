@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+　<head>
+　　<meta charset="utf-8">
+　　<title>はじめてのホームページ</title>
+　　<link rel="stylesheet" href="style.css">
+　</head>
+　<body>
+　　<div class="header">
+　　　ヘッダー
+　　</div>
+　<div class="main">
+　　<div class="main-contents">
+　　　故・何溥嘉
+　　</div>
+　　<div class="right-navi">
+　　　右ぷか
+　　</div>
+　</div>
+ 　<div class="left-navi">
+　　 左ぷか
+ 　</div>
+
+　 <div class="footer">
+　　　フッター
+ 　</div>
+
+　</body>
+</html>
